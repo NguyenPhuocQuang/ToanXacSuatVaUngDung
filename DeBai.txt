@@ -1,0 +1,6 @@
+Bài toán manchine learning.
+Tập dữ liệu khó lớn.
+Xử lý dữ liệu.
+Học các mô hình.
+Lựu chon môn hình nào tốt nhất.
+Đán giá kết quả mô hình trên tập test.
