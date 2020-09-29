@@ -4,3 +4,5 @@ Xử lý dữ liệu.
 Học các mô hình.
 Lựu chon môn hình nào tốt nhất.
 Cuộc sống chỉ có một lần thôi nha.
+
+
